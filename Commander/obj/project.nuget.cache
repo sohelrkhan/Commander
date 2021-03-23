@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Yulzn+23j5Lmj/vSd3SZLwqddowWJgc81OSRCziwAXhHOmTykP0Yc2SfREMlSPR3zOo9+e6b1v+gK+LiEpw2Jw==",
+  "dgSpecHash": "kDfklrtQFrPP+kBjY9zeSNsem+997cJ7ndnixgcj2Sr3QvnMvfH+6K3f4F8wzJlptVCTtf5LD0jyu3WEb80/iQ==",
   "success": true,
-  "projectFilePath": "C:\\SRK\\Commander\\Commander\\Commander.csproj",
+  "projectFilePath": "C:\\SRK\\Commander\\commander\\Commander.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sohel\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\sohel\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

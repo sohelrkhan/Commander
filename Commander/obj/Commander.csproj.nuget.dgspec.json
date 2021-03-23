@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\SRK\\Commander\\Commander\\Commander.csproj": {}
+    "C:\\SRK\\Commander\\commander\\Commander.csproj": {}
   },
   "projects": {
-    "C:\\SRK\\Commander\\Commander\\Commander.csproj": {
+    "C:\\SRK\\Commander\\commander\\Commander.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\SRK\\Commander\\Commander\\Commander.csproj",
+        "projectUniqueName": "C:\\SRK\\Commander\\commander\\Commander.csproj",
         "projectName": "Commander",
-        "projectPath": "C:\\SRK\\Commander\\Commander\\Commander.csproj",
+        "projectPath": "C:\\SRK\\Commander\\commander\\Commander.csproj",
         "packagesPath": "C:\\Users\\sohel\\.nuget\\packages\\",
-        "outputPath": "C:\\SRK\\Commander\\Commander\\obj\\",
+        "outputPath": "C:\\SRK\\Commander\\commander\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sohel\\AppData\\Roaming\\NuGet\\NuGet.Config",
