@@ -1,4 +1,4 @@
-﻿
+﻿//1.45 H
 DotNet EF: dotnet tool install --global dotnet-ef
 Migrations CLI : dotnet ef migrations add InitialCreate
 Update Database : dotnet ef database update

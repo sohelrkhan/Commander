@@ -12,7 +12,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-//51 min
+
 namespace Commander
 {
     public class Startup
@@ -32,7 +32,8 @@ namespace Commander
 
             services.AddControllers();
 
-            services.AddScoped<ICommanderRepo, MockCommanderRepo>();
+            //services.AddScoped<ICommanderRepo, MockCommanderRepo>();
+            services.AddScoped<ICommanderRepo, SqlCommanderRepo>();
         }
 
         
